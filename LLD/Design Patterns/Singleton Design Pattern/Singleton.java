@@ -3,7 +3,9 @@
 //      // Lazy initialization can be optimized for multithreads
 //     private static Singleton instance;  
 
-//     private Singleton() { }
+//     private Singleton() { 
+//         System.out.println("Instance Created");
+//     }
 
 //     public static Singleton getInstance() {
 //         if (instance == null) {
@@ -19,7 +21,10 @@
 public class Singleton {
     private static volatile Singleton instance;
 
-    private Singleton() {}
+    private Singleton() 
+    {
+        System.out.println("Instance Created");
+    }
 
     public static Singleton getInstance() {
         if (instance == null) {   
