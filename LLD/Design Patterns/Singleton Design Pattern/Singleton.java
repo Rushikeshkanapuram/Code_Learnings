@@ -16,7 +16,6 @@
 // }
 
 
-
 // Double checked Locking 
 public class Singleton {
     private static volatile Singleton instance;
