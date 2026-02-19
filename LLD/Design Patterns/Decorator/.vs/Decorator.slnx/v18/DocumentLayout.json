@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\KanapuramRushikeshRe\\Downloads\\Code_Learnings-main\\Code_Learnings-main\\LLD\\Design Patterns\\Decorator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{970A4270-8268-18C4-3C32-FCD9227746AE}|Decorator.csproj|c:\\users\\kanapuramrushikeshre\\downloads\\code_learnings-main\\code_learnings-main\\lld\\design patterns\\decorator\\offerprice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{970A4270-8268-18C4-3C32-FCD9227746AE}|Decorator.csproj|solutionrelative:offerprice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{970A4270-8268-18C4-3C32-FCD9227746AE}|Decorator.csproj|c:\\users\\kanapuramrushikeshre\\downloads\\code_learnings-main\\code_learnings-main\\lld\\design patterns\\decorator\\cardecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{970A4270-8268-18C4-3C32-FCD9227746AE}|Decorator.csproj|solutionrelative:cardecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{970A4270-8268-18C4-3C32-FCD9227746AE}|Decorator.csproj|c:\\users\\kanapuramrushikeshre\\downloads\\code_learnings-main\\code_learnings-main\\lld\\design patterns\\decorator\\icar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{970A4270-8268-18C4-3C32-FCD9227746AE}|Decorator.csproj|solutionrelative:icar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{970A4270-8268-18C4-3C32-FCD9227746AE}|Decorator.csproj|c:\\users\\kanapuramrushikeshre\\downloads\\code_learnings-main\\code_learnings-main\\lld\\design patterns\\decorator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{970A4270-8268-18C4-3C32-FCD9227746AE}|Decorator.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{970A4270-8268-18C4-3C32-FCD9227746AE}|Decorator.csproj|c:\\users\\kanapuramrushikeshre\\downloads\\code_learnings-main\\code_learnings-main\\lld\\design patterns\\decorator\\hyundai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{970A4270-8268-18C4-3C32-FCD9227746AE}|Decorator.csproj|solutionrelative:hyundai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\KanapuramRushikeshRe\\Downloads\\Code_Learnings-main\\Code_Learnings-main\\LLD\\Design Patterns\\Decorator\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\KanapuramRushikeshRe\\Downloads\\Code_Learnings-main\\Code_Learnings-main\\LLD\\Design Patterns\\Decorator\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T15:19:18.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OfferPrice.cs",
+              "DocumentMoniker": "C:\\Users\\KanapuramRushikeshRe\\Downloads\\Code_Learnings-main\\Code_Learnings-main\\LLD\\Design Patterns\\Decorator\\OfferPrice.cs",
+              "RelativeDocumentMoniker": "OfferPrice.cs",
+              "ToolTip": "C:\\Users\\KanapuramRushikeshRe\\Downloads\\Code_Learnings-main\\Code_Learnings-main\\LLD\\Design Patterns\\Decorator\\OfferPrice.cs",
+              "RelativeToolTip": "OfferPrice.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T15:17:17.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CarDecorator.cs",
+              "DocumentMoniker": "C:\\Users\\KanapuramRushikeshRe\\Downloads\\Code_Learnings-main\\Code_Learnings-main\\LLD\\Design Patterns\\Decorator\\CarDecorator.cs",
+              "RelativeDocumentMoniker": "CarDecorator.cs",
+              "ToolTip": "C:\\Users\\KanapuramRushikeshRe\\Downloads\\Code_Learnings-main\\Code_Learnings-main\\LLD\\Design Patterns\\Decorator\\CarDecorator.cs",
+              "RelativeToolTip": "CarDecorator.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T15:15:46.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Hyundai.cs",
+              "DocumentMoniker": "C:\\Users\\KanapuramRushikeshRe\\Downloads\\Code_Learnings-main\\Code_Learnings-main\\LLD\\Design Patterns\\Decorator\\Hyundai.cs",
+              "RelativeDocumentMoniker": "Hyundai.cs",
+              "ToolTip": "C:\\Users\\KanapuramRushikeshRe\\Downloads\\Code_Learnings-main\\Code_Learnings-main\\LLD\\Design Patterns\\Decorator\\Hyundai.cs",
+              "RelativeToolTip": "Hyundai.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T15:15:10.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ICar.cs",
+              "DocumentMoniker": "C:\\Users\\KanapuramRushikeshRe\\Downloads\\Code_Learnings-main\\Code_Learnings-main\\LLD\\Design Patterns\\Decorator\\ICar.cs",
+              "RelativeDocumentMoniker": "ICar.cs",
+              "ToolTip": "C:\\Users\\KanapuramRushikeshRe\\Downloads\\Code_Learnings-main\\Code_Learnings-main\\LLD\\Design Patterns\\Decorator\\ICar.cs*",
+              "RelativeToolTip": "ICar.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T15:14:48.125Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
